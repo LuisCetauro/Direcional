@@ -7,9 +7,9 @@ export default function Home() {
         <InfosDoVendedor />
       </div>
       <div className="flex flex-col gap-6 justify-center items-center">
-        <p>Quer saber mais sobre a Direcional Vendas?</p>
+        <p>Quer saber mais sobre a Direcional?</p>
         <a
-          href="https://www.youtube.com/"
+          href="https://www.direcional.com.br/"
           className="border-4 border-blue-500  w-32 text-center rounded-2xl"
         >
           Clique Aqui
