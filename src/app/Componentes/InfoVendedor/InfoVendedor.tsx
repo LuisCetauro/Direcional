@@ -6,7 +6,7 @@ export default function InfosDoVendedor() {
   const VendedorMockUp = {
     nome: "Luis Cetauro",
     desc: "Olá, estou tentando engressar como o mais novo colaborador da Direcional Vendas e aqui está uma breve demonstração do que eu posso trazer para o time de Brasília.",
-    foto: "/Eu2.png",
+    foto: "/eu2.png",
   };
 
   return (
